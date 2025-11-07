@@ -3,10 +3,10 @@ This project is designed to teach you the basics of HTML, CSS, and JS. Creating 
 ## HTML-Калькулятор
 Данный проект предназначен для обучения основам HTML, CSS и JS. Создание калькулятора с фронтендом HTML и CSS, с бэкендом JS.
 
-## Состав проекта
-# HTML:
+# Состав проекта
+## HTML:
 index.html
-# CSS:
+## CSS:
 style.css
-# JS:
+## JS:
 calc_script.js
